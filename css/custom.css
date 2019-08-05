@@ -1,0 +1,22 @@
+.social-github {
+    background: #171515 !important;
+    color: #fff !important;
+  }
+ .social-github svg {
+    fill: #fff !important;
+  }
+  
+  .text-social-github {
+    color: #171515 !important;
+  }
+  .text-social-github.button svg {
+    fill: #171515  !important;
+  }
+  
+  .stroke.button.social-github {
+    color: #171515  !important;
+    border-color: #171515  !important;
+  }
+  .stroke.button.social-github svg {
+    fill: #171515  !important;
+  }
