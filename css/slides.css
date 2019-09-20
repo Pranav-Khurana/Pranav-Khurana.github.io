@@ -1592,10 +1592,10 @@ html.mobile .showForMobileInline {
 }
 .panel.white {
   background: rgba(255, 255, 255, 0.975) !important;
-  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.07);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.02);
 }
 .panel.black {
-  background-color: rgba(0, 0, 0, 0.8) !important;
+  background-color: rgba(20, 16, 16, 0) !important;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.07);
 }
 .animated .panel.top, .animateOnEvent .panel.top, .hidePanel-top .panel.top.hideOnScroll, .slides:not(.firstSlide) .panel.top.firstSlideOnly, .slides:not(.lastSlide) .panel.top.lastSlideOnly, .slides:not(.firstSlide):not(.lastSlide) .panel.top.firstAndLastSlidesOnly, .slides.lastSlide .panel.top.exceptLastSlide, .slides.firstSlide .panel.top.exceptFirstSlide {
